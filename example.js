@@ -12,8 +12,8 @@ var MongoClient = require('mongodb').MongoClient;
 var job1 = {
     jobName: 'job111',
     jobURL:'http://www.baidu.com',
-    jobStartTime: '2015-10-15 19:21',
-    jobEndTime: '2016-10-15 19:26',
+    jobStartTime: '',
+    jobEndTime: '2016-10-15 23:26',
     jobTimeInterval: '10',
     jobServers: null
 }
