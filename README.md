@@ -20,7 +20,7 @@ It offers:
 
 Install via NPM
 
-    npm install agenda
+    npm install agenda2
 
 You will also need a working [mongo](http://www.mongodb.org/) database (2.4+) to point it to.
 
