@@ -1,18 +1,14 @@
 {
-  "name": "agenda2",
+  "name": "agenda3",
   "version": "0.0.1",
   "description": "Light weight job scheduler for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
-    "blanket": {
-      "pattern": "lib",
-      "data-cover-never": "node_modules"
-    }
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/whilefor/agenda2"
+    "url": "git://github.com/whilefor/agenda3.git"
   },
   "keywords": [
     "job",
@@ -37,5 +33,12 @@
     "mocha": "~2.3.2",
     "mocha-lcov-reporter": "0.0.2",
     "q": "~1.4.1"
+  },
+  "bugs": {
+    "url": "https://github.com/whilefor/agenda3/issues"
+  },
+  "homepage": "https://github.com/whilefor/agenda3#readme",
+  "directories": {
+    "test": "test"
   }
 }
