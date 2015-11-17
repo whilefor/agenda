@@ -25,6 +25,10 @@ Please kindly note `data` is not an optional argument that will be passed to the
 
 `startTime` and `endTime` is a date string like `2015-10-15 19:23:00`, it will pass to new Date() to generate a date object.
 
+>###database field changes
+
+Add `delete` field for the job, will not run the job when `delete` field exsists.
+
 >###comment 
 
 comment the below lines for some reasons.
